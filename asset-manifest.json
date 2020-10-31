@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends-learn-react/static/css/main.75eadf99.chunk.css",
-    "main.js": "/robofriends-learn-react/static/js/main.8ff7cb22.chunk.js",
-    "main.js.map": "/robofriends-learn-react/static/js/main.8ff7cb22.chunk.js.map",
-    "runtime-main.js": "/robofriends-learn-react/static/js/runtime-main.9ac9c86d.js",
-    "runtime-main.js.map": "/robofriends-learn-react/static/js/runtime-main.9ac9c86d.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/robofriends-learn-react/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.20c94dc9.chunk.js": "/robofriends-learn-react/static/js/2.20c94dc9.chunk.js",
-    "static/js/2.20c94dc9.chunk.js.map": "/robofriends-learn-react/static/js/2.20c94dc9.chunk.js.map",
-    "index.html": "/robofriends-learn-react/index.html",
-    "precache-manifest.4506752bf79ccbb48f7b5f84ebf1758c.js": "/robofriends-learn-react/precache-manifest.4506752bf79ccbb48f7b5f84ebf1758c.js",
-    "service-worker.js": "/robofriends-learn-react/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/robofriends-learn-react/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.75eadf99.chunk.css.map": "/robofriends-learn-react/static/css/main.75eadf99.chunk.css.map",
-    "static/js/2.20c94dc9.chunk.js.LICENSE.txt": "/robofriends-learn-react/static/js/2.20c94dc9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends-learn-react/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/explore-hooks-react-redux/static/css/main.042f44c8.chunk.css",
+    "main.js": "/explore-hooks-react-redux/static/js/main.508054bf.chunk.js",
+    "main.js.map": "/explore-hooks-react-redux/static/js/main.508054bf.chunk.js.map",
+    "runtime-main.js": "/explore-hooks-react-redux/static/js/runtime-main.fcb4019d.js",
+    "runtime-main.js.map": "/explore-hooks-react-redux/static/js/runtime-main.fcb4019d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/explore-hooks-react-redux/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.20c94dc9.chunk.js": "/explore-hooks-react-redux/static/js/2.20c94dc9.chunk.js",
+    "static/js/2.20c94dc9.chunk.js.map": "/explore-hooks-react-redux/static/js/2.20c94dc9.chunk.js.map",
+    "index.html": "/explore-hooks-react-redux/index.html",
+    "precache-manifest.889b66d19863ee9a8b911981a23258e2.js": "/explore-hooks-react-redux/precache-manifest.889b66d19863ee9a8b911981a23258e2.js",
+    "service-worker.js": "/explore-hooks-react-redux/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/explore-hooks-react-redux/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.042f44c8.chunk.css.map": "/explore-hooks-react-redux/static/css/main.042f44c8.chunk.css.map",
+    "static/js/2.20c94dc9.chunk.js.LICENSE.txt": "/explore-hooks-react-redux/static/js/2.20c94dc9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/explore-hooks-react-redux/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ac9c86d.js",
+    "static/js/runtime-main.fcb4019d.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.20c94dc9.chunk.js",
-    "static/css/main.75eadf99.chunk.css",
-    "static/js/main.8ff7cb22.chunk.js"
+    "static/css/main.042f44c8.chunk.css",
+    "static/js/main.508054bf.chunk.js"
   ]
 }
