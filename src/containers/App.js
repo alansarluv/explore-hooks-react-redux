@@ -5,17 +5,19 @@ import Scroll from '../components/Scroll';
 import ErrorBoundry from '../components/ErrorBoundry';
 import '../containers/App.css';
 
-function App() {
+function App(props) {
 
   const [robots, setRobots] = useState([]);
   const [searchField, setSearchField] = useState('');
   const [count, setCount] = useState(0);
 
-  useEffect( () => {
+  useEffect(() => {
     fetch('https://jsonplaceholder.typicode.com/users')
       .then(response => response.json())
       .then(users => setRobots(users)
     );
+    console.log(props.store.getState())
+
   },[count]) // onnly run if count changes
   const onSearchChange = (event) => {
     setSearchField(event.target.value);
